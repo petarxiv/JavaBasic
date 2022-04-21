@@ -1,0 +1,41 @@
+Maps in Java:
+It's a data structure that allows us to store key value pairs.
+1)Searching is efficient
+2)We cna use any types of keys like Double, String, Char, etc. we are not restricted to int
+based natural indesex.
+
+Retrieval:
+means getting back the data from a data strucrite
+There are many times of maps but, we will be discussing only four of them
+1)HashMap
+2) LinkedHashMap
+3)ThreeMap
+4)HashTable(old)
+
+HashMap:
+1) HashMap is the fastest one when it comes to inserting and retrieving the data.
+2)insertion order is not maintained.
+3)Most widely used map
+
+LinkedHashMap:
+1)LinkedHashMap maintains the insertion order
+2)Insertion speed is same as HashMap
+3)Retrieval is the slowest one
+
+ThreeMap:
+1)Data is sorted based on the natural order
+2)Insertion is slowest because of the sorting
+
+HashTable:
+Is a thread safe means it can handle multiple insertions and retrivals at the same
+time from multiple CPU cores but because of thread safety features it is also
+very slow so if            never write multithreading code never
+use it
+
+
+
+
+
+
+
+

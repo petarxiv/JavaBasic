@@ -1,0 +1,25 @@
+Collections FrameWork in Java:
+collection of classes that help us manage and manipulate data in a better way.
+ArraysList
+1)This class has many built=in methods like add() remove() clear() etc.
+2)Dynamic and can adjust their size at run time.
+
+ArrayList<String> arrayList=new ArrayList<>();
+ArrayList>name of the class
+<> => diamond operator we specify the data type
+Wrapper classes
+byte=Byte
+short=>Short
+int=>integer
+double=>Double
+char=>Character
+
+why wrapper classes
+1)we get built=in methods
+2)a lot of frameworks don't support primitives
+when to use primitive:
+1)when we care about the memory because primitives occupy 4 times less memory as compared to
+wrapper
+2)performance
+when to use Wrapper
+when we can about our ease.

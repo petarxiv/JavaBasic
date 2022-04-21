@@ -1,0 +1,6 @@
+Class16
+
+Java StringBuilder class is used to create mutable modifiable string
+
+-it can be changed
+
